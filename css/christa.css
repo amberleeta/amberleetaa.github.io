@@ -1,0 +1,31 @@
+* {padding: 0; margin: 0;}
+
+body {
+	background: #FEEFAD; margin-top: 25px;
+}
+
+header {
+	width: 900px; background: #FFEC9E; padding: 25px; 
+	margin: auto; text-align: center; color: #00215E
+}
+
+menu {
+	width: 900px; background: #FDFFC2; margin: auto;
+	padding: 25px; 
+}
+
+menu a {
+	color: blue; text-decoration: none;
+	margin-right: 20px;
+}
+
+menu a:hover {
+	color: white;
+	text-shadow: underline;
+}
+
+article {
+	width: 900px; background: #A0DEFF;
+	margin: auto; padding: 25px;
+	text-align: justify;
+}
